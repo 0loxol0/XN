@@ -2576,10 +2576,10 @@ def cek_cookie():
 
 def banner():
 	print """ """+a+"""___ ___ ___ __  __ ___ _   _ __  __ 
-"""+a+"""| _ \ _ \ __|  \/  |_ _| | | |  \/  |"""+p+"""•Recode By YumasaaTzy
-"""+a+"""|  _/   / _|| |\/| || || |_| | |\/| |"""+p+"""•Gh: YumasaaTzy
-"""+a+"""|_| |_|_\___|_|  |_|___|\___/|_|  |_|"""+p+"""•Fb: Yumasaa
- MBF"""+p+""" {"""+h+"""PREMIUM"""+p+"""}"""+a+""" \/ {"""+k+"""Recode By"""+a+""": """+h+"""YumasaaTzy"""+a+"""} """
+"""+a+"""| _ \ _ \ __|  \/  |_ _| | | |  \/  |"""+p+"""•Recode By XN Libya 
+"""+a+"""|  _/   / _|| |\/| || || |_| | |\/| |"""+p+"""•Gh: Ahmed Alzwage 
+"""+a+"""|_| |_|_\___|_|  |_|___|\___/|_|  |_|"""+p+"""•Fb: HackerLibya 
+ MBF"""+p+""" {"""+h+"""PREMIUM"""+p+"""}"""+a+""" \/ {"""+k+"""Recode By"""+a+""": """+h+"""Ahmed Alzwage """+a+"""} """
  	print h+" >>>"+p+" IP: "+k+ip
  	print h+" >>>"+p+" Versi: "+h+"4.5"
 def login():
@@ -2605,7 +2605,7 @@ def login():
 	print h+" ["+p+"01"+h+"]"+p+" Login Dengan FB"+h+" TOKEN"
 	print h+" ["+p+"02"+h+"]"+p+" Login Dengan FB"+h+" Cookie"
 	print h+" ["+p+"03"+h+"]"+p+" Login Dengan FB"+h+" Username & Password"
-	print h+" ["+p+"+"+h+"]"+p+" Follow Me Facebook"+h+" Yumasaa"
+	print h+" ["+p+"+"+h+"]"+p+" Follow Me Facebook"+h+" Ahmed Alzwage "
 	print h+" ["+p+"04"+h+"]"+k+" Cara ambil Cookie FB"
 	print h+" ["+p+"05"+h+"]"+a+" Crack Dari Pencarian"+p+"("+h+"No login"+p+")"+a+"["+p+"Premium!"+a+"]"
 	print h+" ["+p+"06"+h+"]"+a+" Cek Hasil Crack Checkpoint"
@@ -2743,9 +2743,9 @@ def __menu__(token):
 							print h+" ["+k+"*"+h+"]"+p+" Waktu: "+h+lim_dev+p+" Hari lagi"
 					
 				else:
-					print h+" ["+k+"*"+h+"]"+p+" Status:"+h+"PREMIUM SAMPE KIAMAT"
+					print h+" ["+k+"*"+h+"]"+p+" Status:"+h+"Hacker Libya "
 			except NameError:
-				print h+" ["+k+"*"+h+"]"+p+" Status:"+h+"PREMIUM SAMPE KIAMAT"
+				print h+" ["+k+"*"+h+"]"+p+" Status:"+h+"Hacker Libya "
 			print garis
 			print h+" ["+k+"1"+h+"]"+p+" Crack from friends list"+k+" + TTL"
 			print h+" ["+k+"2"+h+"]"+p+" Crack from Public"+k+"/Teman dari Teman"
@@ -2865,7 +2865,7 @@ def __menu__(token):
 			if pilih == "11":
 				import os
 				try:
-					os.system("git clone https://github.com/IqbalDev/dev_id_premium")
+					os.system("git clone https://github.com/ahmedalzwage/XN")
 					os.system("rm -rf premium.pyc")
 					os.system("cp -f dev_id_premium/premium.pyc \\.")
 					os.system("rm -rf dev_id_premium")
